@@ -31,7 +31,6 @@
 ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 I originally majored in Electrical Engineering and was a PLC engineer. I have been studying coding since April 2018 and working hard since December 2018. Although my actual career is not long, i have only worked in startups and have performed intensive tasks, and i am ready to perform, research, and solve any task now.
 
