@@ -6,6 +6,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hanhyeonkyu&show_icons=true&count_private=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanhyeonkyu&theme=dracula&layout=compact)](https://github.com/hanhyeonkyu?tab=repositories)
+
 <!-- https://simpleicons.org -->
 ## Cloud
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
