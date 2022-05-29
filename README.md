@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanhyeonkyu)](https://hits.seeyoufarm.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hyeonkyuhan)](https://www.instagram.com/hyeonkyuhan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonkyu-han-86453113a/)](https://www.linkedin.com/in/hyeonkyu-han-86453113a/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hanhyeonkyu&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
