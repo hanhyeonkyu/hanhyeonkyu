@@ -31,14 +31,20 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-I originally majored in Electrical Engineering and was a PLC engineer. I have been studying coding since April 2018 and working hard since December 2018. Although my actual career is not long, i have only worked in startups and have performed intensive tasks, and i am ready to perform, research, and solve any task now.
+### Slow lazy Life
 
-These days, I enjoy looking at popular open sources on github, researching them, and developing them for use in my free time. I mainly design a database, develop a backend, express it on the frontend, and configure it in the cloud, and I am concentrating on making more meaningful services by analyzing data.
+The action seems lazy, but the brain quickly considers many things and takes the appropriate action.
 
-If you have an interesting open source or side project, please feel free to contact me.
+### As a Developer
+
+Always curious, always practicing, always looking back, never giving up and growing slowly and steadily.
+
+### Unique Personality
+
+Recognize and genuinely respect people's diversity and always remain humble and curious.
 
 - 👋 Hi, I’m @Alex
 - 👀 I’m interested in something new.
-- 🌱 I’m currently learning ml and golang.
+- 🌱 I’m currently learning ml.
 - 💞️ I’m looking to collaborate on something special.
 - 📫 You can send me the email. busgod1212@gmail.com
