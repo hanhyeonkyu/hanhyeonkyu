@@ -10,8 +10,6 @@
 
 ## Experienced & Skill
 
----
-
 #### 📋 Languages
 
 <span>
