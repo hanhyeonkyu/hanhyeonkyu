@@ -25,4 +25,4 @@ I'm always curious, always practicing, always looking back, never giving up and 
 ### 🌱 I’m currently Learning And Working
 - Languages: Typescript, Golang, Python, Dart
 - Topics #1: Web, Mobile, Desktop Application / Data Crawling, Preprocessing, Analysis / Cloud Engineering(AWS, GCP, Azure)
-- Topics #2: Natural Language Processing / Supervised, unsupervised learning / Automation Engineering / Embedding Programming
+- Topics #2: Natural Language Processing / Supervised, unsupervised learning / Automation Engineering / Embedding
