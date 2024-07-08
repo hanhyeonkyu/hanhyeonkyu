@@ -1,8 +1,8 @@
 ## ***"Simplicity is the soul of efficiency" -- Austin Freeman***
 
-### Alex Hkhan
+### Alex HHK
 
-👋 Hello, I'm Alex Hkhan. I'm currently working as an software engineer at IQVIA. I'm working on creating a NodeJS-based Web site and deploying it for providing visualization services that analyze healthcare big data. I have previously developed apps (web, mobile, desktop) using Typescript, Golang, and Python.
+👋 Hello, I'm Alex HHK. I'm currently working as an software engineer at IQVIA. I'm working on creating a NodeJS-based Web site and deploying it for providing visualization services that analyze healthcare big data. I have previously developed apps (web, mobile, desktop) using Typescript, Golang, and Python.
 
 I'm always curious, always practicing, always looking back, never giving up and growing steadily.
 * Learning: Continue taking multiple courses or learn new technologies through Github and Producthunt.
