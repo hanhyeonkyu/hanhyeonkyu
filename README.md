@@ -22,7 +22,7 @@ I'm always curious, always practicing, always looking back, never giving up and 
 
 [![opgc](https://api.opgc.me/githubs/users/hanhyeonkyu/tag/?theme=dracula)](https://opgc.me/#/users/hanhyeonkyu)
 
-### 🌱 I’m currently learning And Working
+### 🌱 I’m currently Learning And Working
 - Languages: Typescript, Golang, Python, Dart
 - Topics #1: Web, Mobile, Desktop Application / Data Crawling, Preprocessing, Analysis / Cloud Engineering(AWS, GCP, Azure)
 - Topics #2: Natural Language Processing / Supervised, unsupervised learning / Automation Engineering
