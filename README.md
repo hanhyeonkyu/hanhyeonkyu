@@ -11,7 +11,6 @@ I'm always curious, always practicing, always looking back, never giving up and 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busgod1212@gmail.com)](mailto:busgod1212@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonkyu-han-86453113a/)](https://www.linkedin.com/in/hyeonkyu-han-86453113a/)
-[![Github Followers](https://img.shields.io/github/followers/hanhyeonkyu?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/hanhyeonkyu?tab=followers)
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=hanhyeonkyu&show_icons=true&theme=dracula)](https://github.com/hanhyeonkyu)
 
