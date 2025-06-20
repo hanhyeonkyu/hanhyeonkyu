@@ -13,10 +13,6 @@ I'm always curious, always practicing, always looking back, never giving up and 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonkyu-han-86453113a/)](https://www.linkedin.com/in/hyeonkyu-han-86453113a/)
 [![Github Followers](https://img.shields.io/github/followers/hanhyeonkyu?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/hanhyeonkyu?tab=followers)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanhyeonkyu&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/hanhyeonkyu)
-
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=hanhyeonkyu&show_icons=true&theme=dracula)](https://github.com/hanhyeonkyu)
 
 ### 🌱 I’m currently Learning And Working
