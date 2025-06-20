@@ -12,8 +12,6 @@ I'm always curious, always practicing, always looking back, never giving up and 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busgod1212@gmail.com)](mailto:busgod1212@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonkyu-han-86453113a/)](https://www.linkedin.com/in/hyeonkyu-han-86453113a/)
 
-[![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=hanhyeonkyu&show_icons=true&theme=dracula)](https://github.com/hanhyeonkyu)
-
 ### 🌱 I’m currently Learning And Working
 - Languages: Typescript, Golang, Python, Dart
 - Topics #1: Web, Mobile, Desktop Application / Data Crawling, Preprocessing, Analysis / Cloud Engineering(AWS, GCP, Azure)
